@@ -41,6 +41,11 @@ TodoHub/
 - Building interactive web applications
 - Basic Progressive Web App (PWA) configuration
 
+Preview - 
+1. <img width="1363" height="723" alt="Screenshot 2026-07-16 201842" src="https://github.com/user-attachments/assets/2c92e87a-0de5-4cd5-b6d2-a1d46113ecb7" />
+2. <img width="1365" height="761" alt="Screenshot 2026-07-16 201948" src="https://github.com/user-attachments/assets/d2f527ef-bb45-4619-a640-294156b473ff" />
+3. <img width="1357" height="727" alt="Screenshot 2026-07-16 202019" src="https://github.com/user-attachments/assets/fee86dd2-6f07-4817-bc21-6cdd72bea9de" />
+
 ## 🔮 Future Improvements
 
 - 💾 Local Storage support
